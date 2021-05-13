@@ -38,6 +38,7 @@
     align-items: center;
 }
 .contenuto{
+    width: 100%;
     overflow-y: scroll;
 }
 aside{
@@ -97,7 +98,22 @@ h3{
     color: greenyellow;
     padding: 10px;
 }
-.rece
+.recently{
+    display: flex;
+    flex-wrap: wrap;
+}
+.dimensione-2{
+    width: 150px;
+    height: 150px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+h6{
+    text-align: center;
+    color: white;
+}
+
 
 
     
