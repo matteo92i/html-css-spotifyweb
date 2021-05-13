@@ -87,8 +87,17 @@ h3{
     width: 20%;
     height: 30px;
     text-align: center;
-
 }
+.centrale{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.grey{
+    color: greenyellow;
+    padding: 10px;
+}
+.rece
 
 
     
