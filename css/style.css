@@ -26,6 +26,7 @@
 }
 .container-1 main{
     width: 85%;
+    
 }
 .header{
     width: 100%;
@@ -37,10 +38,12 @@
     justify-content: flex-end;
     align-items: center;
 }
-.contenuto{
-    width: 100%;
+main{
+    height: 100%;
     overflow-y: scroll;
 }
+
+    
 aside{
     display: flex;
     flex-direction: column;
@@ -102,9 +105,9 @@ h3{
     display: flex;
     flex-wrap: wrap;
 }
-.dimensione-2{
-    width: 150px;
-    height: 150px;
+.container-1 .dimensione-2{
+    width: 180px;
+    height: 180px;
     margin-top: 20px;
     margin-left: 20px;
     margin-bottom: 10px;
