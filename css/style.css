@@ -148,8 +148,12 @@ footer{
     
 }
 
-.album .audio{
-    flex-basis: 230px;
+.album{
+    width: 230px;
+    height: 100%;
+}
+.audio{
+    width: 230px;
     height: 100%;
 }
 .barra{
@@ -165,10 +169,18 @@ footer{
     
 }
 .album .cover{
-    width: 10%;
+    width: 20%;
 }
 .album .cover img{
     width: 100%;
+}
+h4{
+    font-size: 15px;
+    margin-left: 15px;
+}
+.size{
+    font-size: 10px;
+    margin-left: 15px;
 }
 .titolo {
     width: 50%;
