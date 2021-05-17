@@ -160,6 +160,10 @@ footer{
     flex-basis: 40%;
     height: 100%;
     flex-grow: 1;
+    display: flex;
+    justify-content: center;
+    padding: 20px 20px;
+
 }
 .album{
     display: flex;
@@ -188,6 +192,24 @@ h4{
 .icone{
     width: 30%;
 }
+.dimensione-4{
+    font-size: 30px;
+}
+.dimensione-5{
+    font-size: 30px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+hr{
+    width: 40%;
+    height: 4px;
+    border-radius: 30%;
+    
+}
+.posizione{
+
+}
+
 
 
 
